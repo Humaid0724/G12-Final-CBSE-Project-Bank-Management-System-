@@ -175,6 +175,4 @@ while True:
 
     except ValueError:
         print("Invalid input. Please enter a valid integer.")
-
-#making a change
-print("Nothing Much")
+        
