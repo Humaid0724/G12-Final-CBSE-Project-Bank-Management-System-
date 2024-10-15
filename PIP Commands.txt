@@ -1,0 +1,8 @@
+TO INSTALL PIP
+pip install --upgrade pip
+
+To install the MySQL Connector for Python
+pip install mysql-connector-python
+
+To install the prettytable module for Python
+pip install prettytable
